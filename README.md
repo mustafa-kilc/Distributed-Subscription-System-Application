@@ -15,3 +15,5 @@ This Java-based project implements a distributed subscription system, allowing c
 1. Run the Server1 application on port 5001.
 2. Run additional instances of Server2 and Server3 on ports 5004 and 5008, respectively.
 3. Execute the Client application, which randomly selects a server and allows users to perform subscription-related actions.
+
+Youtube: https://youtu.be/NqTfXU1jL_c
